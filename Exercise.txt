@@ -1,0 +1,4 @@
+TASK 1
+1) In cell D4, use Excel text functions to display only the date of each film.  Copy this down to the rest of the column.
+2) In cell E4, use Excel text functions to only display the text Directed by and the name of each director.  Copy this down to the rest of the column.
+3) In cell F4, use Excel text functions to remove the words Directed by from the text in cell E4, to only show the director's name.  Copy this down to the rest of the column.
